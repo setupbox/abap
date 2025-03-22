@@ -1,0 +1,9 @@
+WEEK01 SAP 실습환경 구축 메뉴얼 과제 제출합니다.
+
+* 재접속 시
+
+sudo -i
+
+sn npladm
+
+startsap all
